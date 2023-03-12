@@ -1,0 +1,15 @@
+D:\Desktop\Семинар С#\Домзадача58\bin\Debug\net6.0\Домзадача58.exe
+D:\Desktop\Семинар С#\Домзадача58\bin\Debug\net6.0\Домзадача58.deps.json
+D:\Desktop\Семинар С#\Домзадача58\bin\Debug\net6.0\Домзадача58.runtimeconfig.json
+D:\Desktop\Семинар С#\Домзадача58\bin\Debug\net6.0\Домзадача58.dll
+D:\Desktop\Семинар С#\Домзадача58\bin\Debug\net6.0\Домзадача58.pdb
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.csproj.AssemblyReference.cache
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.AssemblyInfoInputs.cache
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.AssemblyInfo.cs
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.csproj.CoreCompileInputs.cache
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.dll
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\refint\Домзадача58.dll
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.pdb
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\Домзадача58.genruntimeconfig.cache
+D:\Desktop\Семинар С#\Домзадача58\obj\Debug\net6.0\ref\Домзадача58.dll
